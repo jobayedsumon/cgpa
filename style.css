@@ -1,0 +1,53 @@
+* {
+	font-family: Tahoma;
+}
+
+.calculator {
+  left: 415px;
+  position: relative;
+  width: 500px;
+}
+
+.daymode {
+	background-color: white;
+	color: black;
+}
+
+.nightmode {
+	background-color: black;
+	color: white;
+}
+
+h1, h3{
+	text-align: center;
+}
+
+.right {
+	float: right;
+}
+
+.down {
+  top: 230px;
+  position: relative;
+}
+
+.fix {
+	overflow: hidden;
+}
+
+#result {
+  bottom: 15px;
+  position: relative;
+}
+
+#button {
+  position: relative;
+  left: 40%;
+}
+
+.modeButton {
+  position: relative;
+  margin: 0px auto;
+  width: 200px;
+  top: 200px;
+}
